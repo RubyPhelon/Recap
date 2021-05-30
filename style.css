@@ -1,0 +1,29 @@
+*{
+  font-size: 105%;
+  font-family: sans-serif;
+}
+
+nav ul {
+  list-style:none;
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+	word-spacing: 30px;
+	box-shadow: 1px 1px 10px 5px grey;
+	padding: 5px;
+}
+nav a {
+    color:whitesmoke;
+    text-decoration: none;
+	font-size: 36px;
+
+}
+
+nav a:hover {
+	background-color: rgb(255, 255, 129);
+	color:black;
+}
+
+nav li{
+	display: inline-block;
+}
