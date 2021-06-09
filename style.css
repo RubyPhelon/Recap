@@ -27,3 +27,17 @@ nav a:hover {
 nav li{
 	display: inline-block;
 }
+
+.container {
+  margin: 0 auto;
+  padding: 10px;
+  width: 80%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  column-gap: 25px
+}
+
+img{
+  width: 240px;
+  text-align: center;
+}
